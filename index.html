@@ -19,7 +19,7 @@
     <a href="http://gjdev.ca">+Gregory</a>
     <a href="https://gmail.com">Gmail</a>
     <a href="https://images.google.com">Images</a>
-   <a href="https://google.com"><img src="img/grid.png" alt="Grid"></a>
+    <a href="http://www.google.com/intl/en/options/"><img src="img/grid.png" alt="Apps"></img></a></li>
    <a href="https://google.com"><img src="img/bell.png" alt="Bell"></a>
    <a href="http://gjdev.ca"><img id="photo" src="img/me.png" alt="Picture of Self"></a>
     </div> <!-- end div for navbar -->
@@ -31,24 +31,20 @@
       <div id="searchform">
         <input type="text" name="search">
       </div> <!-- end div for searchform -->
-      <div class="buttons">
-        <button type="button">Google Search</button>
-        <button type="button">I'm Feeling Lucky</button>
-      </div> <!-- end div for buttons -->
+      <div id="search-button-container">
+          <input class="search-button" id="submit" type="submit" aria-label="Google Search" value="Google Search"></input>
+          <input class="search-button" id="lucky" type="submit" aria-label="I'm Feeling Lucky" value="I'm Feeling Lucky"></input>
+        </div> <!-- end div for search-button-container -->
   </div> <!-- end div for search -->
   
   <div class="footer">
-    <ul id="left">
-        <li><a href="https://www.google.com/intl/en/ads/?fg=1"></a>Ads</li>
-        <li><a href="https://www.google.com/services/"></a>Business</li>
-        <li><a href="https://www.google.com/intl/en/about/"></a>About</li>
-        <li><a href="https://validator.w3.org/"><img src="img/valid_html5_blue.png" alt="Valid HTML5"></a></li>
-    </ul>
-    
-    <ul id="right">
-        <li><a href="https://www.google.com/intl/en/policies/privacy/?fg=1"></a>Privacy & Terms</li>
-        <li><a href="https://www.google.com/preferences?hl=en"></a>Settings</li>
-        <li><a href="https://google.ca"></a>Google.ca</li>
+        <li class="right-footer"><a href="https://www.google.com/preferences?hl=en">Settings</a></li>
+        <li class="right-footer"><a href="https://www.google.com/intl/en/policies/terms/?fg=1">Terms</a></li>
+        <li class="right-footer"><a href="https://www.google.com/intl/en/policies/privacy/?fg=1">Privacy</a></li>
+        <li class="left-footer"><a href="https://www.google.com/intl/en/ads/?fg=1">Advertising</a></li>
+        <li class="left-footer"><a href="https://www.google.com/services/?fg=1">Business</a></li>
+        <li class="left-footer"><a href="https://www.google.com/intl/en/about.html?fg=1">About</a></li>
+        <li class="left-footer"><a href="https://validator.w3.org/"><img src="img\valid_html5_blue.png" alt="Valid HTML5"></a></li>
     </ul>
    </div> <!-- end div for footer -->
 </body>
