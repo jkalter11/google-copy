@@ -1,9 +1,7 @@
 This is deconstructing an existing web page and rebuilding it. 
 
-![Game screenshot](https://raw.githubusercontent.com/gregoryhammond/google-copy/master/preview.png "Preview of page")
-
 From The Odin Project (http://www.theodinproject.com/web-development-101/html-css)
 
-See preview of the html at http://htmlpreview.github.io/?https://github.com/gregoryhammond/google-copy/blob/master/index.html
+See what it looks like in a browser at http://htmlpreview.github.io/?https://github.com/gregoryhammond/google-copy/blob/master/index.html
 
 This is under MIT License (https://github.com/gregoryhammond/google-copy/blob/master/LICENSE)
