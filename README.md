@@ -1,7 +1,7 @@
 # Google-Copy
 ## This is deconstructing an existing web page and rebuilding it.
 
-![Almost duplicate of google] (https://i1.someimage.com/zqFOfHo.jpg)
+![Almost duplicate of google] (https://i1.someimage.com/BxcSjQ8.png)
 
 ### SETUP/USAGE/HOW TO
 * This is just to show people that I can create a webpage. If you view this then go to http://htmlpreview.github.io/?https://github.com/gregoryhammond/google-copy/blob/master/index.html
